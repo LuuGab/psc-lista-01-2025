@@ -1,1 +1,1 @@
-Repositório de Práticas de Programação & Soluções Computacionais.
+Repositório Dedicado a Práticas da Unidade Curricular Programação & Soluções Computacionais.
